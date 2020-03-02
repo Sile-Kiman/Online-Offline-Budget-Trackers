@@ -38,6 +38,7 @@ Test:
 
  
 Image of the Site:
+![image](https://github.com/Sile-Kiman/Online-Offline-Budget-Trackers/blob/master/public/Capture2.PNG)
 ![image](https://user-images.githubusercontent.com/36079663/75642546-e08cb400-5c09-11ea-98e8-69b82c972e5e.png)
 License:
 MIT License
